@@ -1,0 +1,1 @@
+C:\Users\OLEG\IdeaProjects\Lab 1. Kotlin basics\Basic Syntax\Declaring an Immutable Variable (val)\src\Task.kt
